@@ -1,0 +1,43 @@
+h1{
+    text-align: center; 
+    /* Centralizar o titulo */
+    font-size: 50px;
+    /* Tamanho da fonte do titulo */
+    color: green;
+    /* Cor do título  */
+}
+
+h2{
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 70px;
+}
+
+p {
+    color: rgb(229, 241, 62);
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    text-align: justify;
+}
+img{
+    display: block;
+    margin: 0px auto;
+   }
+
+li {
+    color: rgb(229, 241, 62);
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    text-align: start;
+   
+}  
+
+
